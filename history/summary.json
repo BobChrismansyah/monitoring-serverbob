@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxmox.notsec.site.ico",
     "slug": "server-bob",
     "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.48%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
-    "dailyMinutesDown": {
-      "2024-11-08": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 730,
+    "timeDay": 730,
+    "timeWeek": 730,
+    "timeMonth": 730,
+    "timeYear": 730,
+    "dailyMinutesDown": {}
   }
 ]
